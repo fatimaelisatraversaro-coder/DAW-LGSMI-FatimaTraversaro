@@ -1,0 +1,59 @@
+{
+  "enquestes": {
+    "enquesta": [
+      {
+        "id": 1,
+        "titol": "Alimentació en el futbol femení",
+        "activa": true,
+        "preguntes": {
+          "pregunta": [
+            {
+              "ordre": 1,
+              "text": "¿Quin tipus de carbohidrats preferiu pre-partit?",
+              "tipus": "opció múltiple",
+              "opcions": {
+                "opcio": [
+                  "Arròs o pasta blanca amb pollastre",
+                  "Pasta amb salsa de tomàquet  natural",
+                  "patata bullida amb mongetes i pollastre"
+                ]
+              }
+            },
+            {
+              "ordre": 2,
+              "text": "Qué menjau en les 3-4h posteriors al partit",
+              "tipus": "text lliure"
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "titol": "Hidratació i suplementació en competició",
+        "activa": false,
+        "preguntes": {
+          "pregunta": [
+            {
+              "ordre": 1,
+              "text": "¿Quines de les següents opcions preneu?",
+              "tipus": "Opció mútiple",
+              "opcions": {
+                "opcio": [
+                  "Creatina",
+                  "Proteína",
+                  "Isotónic",
+                  "Gel energètic de ràpida absorció"
+                ]
+              }
+            },
+            {
+              "ordre": 2,
+              "titol": "Comenta com t'ajuda la suplementació durant els partits",
+              "tipus": "Text lliure"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

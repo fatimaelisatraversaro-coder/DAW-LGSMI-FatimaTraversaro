@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cataleg>
+  <pelicula id="P01">
+		<titol>El laberint del faune </titol>
+		<any>2006</any>
+		<genere>fantasia</genere>
+		<duracio unitat="min">118</duracio>
+		<actors_principals>
+			<actor>
+				<nom>Ivana</nom>
+				<llinatge>Baquero</llinatge>
+      </actor>
+			<actor>
+				<nom>Sergi</nom>
+				<llinatge>López</llinatge>
+      </actor>
+    </actors_principals>
+  </pelicula>
+		
+  <pelicula id="P02">
+			<titol>Societat morta</titol>
+			<any>1989</any>
+			<genere>drama</genere>
+			<duracio unitat="min">128</duracio>
+			<actors_principals>
+				<actor>
+					<nom>Robin</nom>
+					<llinatge>Williams</llinatge>
+        </actor>
+				<actor>
+					<nom>Ethan</nom>
+					<llinatge>Hawke</llinatge>
+        </actor>
+				<actor>
+					<nom>Robert</nom>
+					<llinatge1>Sean</llinatge1>
+					<llinatge2>Leonard</llinatge2>
+        </actor>
+			
+    </actors_principals>
+  </pelicula>
+		
+  <pelicula id="P03">
+			<titol>Interestellar</titol>
+			<any>2014</any>
+			<genere>ciencia-ficción</genere>
+			<duracio unitat="min">169</duracio>
+			<actors_principals>
+				<actor>
+					<nom>Matthew</nom>
+					<llinatge> McConaughey </llinatge>
+        </actor>
+				<actor>
+					<nom>Anne</nom>
+					<llinatge> Hathaway</llinatge>
+        </actor>
+    </actors_principals>
+  </pelicula>
+</cataleg>
